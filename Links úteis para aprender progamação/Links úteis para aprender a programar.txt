@@ -1,0 +1,9 @@
+Link para download do VisuAlg: https://visualg3.com.br/
+
+Link para download do portugol: http://lite.acad.univali.br/portugol/
+
+Link para a página da Digital Innovation One: https://digitalinnovation.one/
+
+Link para o Grasshopper (aplicativo de programação para iniciantes): https://grasshopper.app/pt_br/
+
+Link para download do framework .NET(o site também disponibiliza exercícios básicos para conhecer o C#): https://dotnet.microsoft.com/download
